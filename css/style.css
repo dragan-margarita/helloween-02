@@ -226,7 +226,7 @@ animation-iteration-count: infinite;
 }
 .hat img, .chan img{
 	margin: 30vh 20vw 30vh 50vw ;
-	height:60vh;
+	height:70vh;
 }
 @media (max-width: 800px){
 	.hat img, .chan img{margin:45vh auto 10vh;
